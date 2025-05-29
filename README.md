@@ -4,8 +4,8 @@
 
 <h3>👨‍💻 Project Presntation Asiignments:</h3>
 
-- <b>[Career Councelling] ()</b>
-- [Skills and Interests]()
+- [Career Councelling] ()
+- [Skills and Interests](https://github.com/219099405/SkillsAndInterests)
 - [Personality Assessment]() 
 - [Create a CV](https://github.com/219099405/CreateCV)
 - [CV submission](
