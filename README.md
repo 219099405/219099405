@@ -6,7 +6,7 @@
 
 - [Career Councelling](https://github.com/219099405/CareerDevelopment)
 - [Skills and Interests](https://github.com/219099405/SkillsAndInterests)
-- [Personality Assessment]() 
+- [Personality Assessment](https://github.com/219099405/PersonalityAssessment) 
 - [Create a CV](https://github.com/219099405/CreateCV)
 - [CV submission](
 
